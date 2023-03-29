@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cindy's_Catering/1.0.0": {
+        "runtime": {
+          "Cindy's_Catering.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cindy's_Catering/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
